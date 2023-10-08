@@ -1,0 +1,13 @@
+com\courses\IITB\IitbApplication.class
+com\courses\IITB\services\CourseInstanceService.class
+com\courses\IITB\repository\CourseInstanceRepository.class
+com\courses\IITB\services\CourseService.class
+com\courses\IITB\config\CorsConfig.class
+com\courses\IITB\modal\BaseEntity.class
+com\courses\IITB\modal\CourseInstance.class
+com\courses\IITB\repository\CourseRepository.class
+com\courses\IITB\Requests\CreateinstanceRequest.class
+com\courses\IITB\controllers\CourseInstanceController.class
+com\courses\IITB\config\SpringFoxConfig.class
+com\courses\IITB\controllers\CourseController.class
+com\courses\IITB\modal\Course.class
