@@ -29,12 +29,24 @@ Requirements :
                      * Port 8080
                      * Port 80
                      * Port 3306 - Use for sql server (disable it)
-3. Make sure to clone both the backend and frontend reposutories
+3. Make sure to clone both the backend and frontend repositories
+
+************Method 1*************
+Download docker-compose.yml file 
+Open docker-compose.yml path in cmd 
+type : docker-compose up
+
+Application will start 
+
+***********Method 2 *************
 
 Run Application 
 Go to backend project project folder 
 Open cmd/terminal for this project 
 type : docker-compose up
+
+Application will start 
+
 This command will start and initialize the services defined in your docker-compose.yml file. If the docker-compose.yml
 If is not able to start make sure to correct path where the docker-compose.yml  
 
